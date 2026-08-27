@@ -1,2 +1,2 @@
 # CSC349
-Machine learning
+Machine learning course in fall 2026
